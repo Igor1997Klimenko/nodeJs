@@ -2,6 +2,7 @@
 #Junk
 .vscode
 .idea
+.DS_Store
 
 # dependencies
 node_modules/
